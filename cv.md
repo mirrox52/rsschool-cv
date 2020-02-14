@@ -22,3 +22,6 @@
                 threads[i].Start();
             }
    ``` 
+6. No seriously projects, just labs in university.
+7. Third-yerar student of BSUIR.
+8. B1. I learned English with private teacher, because in School was German language.

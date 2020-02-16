@@ -1,0 +1,39 @@
+body{
+  line-height: 20px;
+  width: 1024px;
+  margin:0 auto;
+}
+
+img {
+  transform: rotate(270deg);
+  width: 250px;
+  height: 220px;
+  padding-top: 30px;
+}
+
+.information {
+  font-size: 23px;
+}
+
+.list {
+  font-size: 18px;
+  border-bottom: 10px solid brown;
+  padding-bottom: 10px;
+}
+
+.skills-level {
+  font-size: 12px;
+  text-align: center;
+  color: #ffffff;
+  background-color: #4470c4;
+}
+
+.skill {
+  margin: 0;
+  margin-bottom: 10px;
+  background-color: #e8e8e8;
+}
+
+.byte{
+  font-size: 18px;
+}
